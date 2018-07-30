@@ -61,7 +61,18 @@ See above. No installation necessary.
    * [DotEnv](https://www.npmjs.com/package/dotenv)
 
 ## Versioning
-***** fill out later *******
+Commits on Jul 30, 2018
+
+    submitting final changes
+    kkb
+    kkb committed 3 minutes ago
+
+Commits on Jul 25, 2018
+
+    Initial commit
+    @kkbhasin
+    kkbhasin committed 5 days ago
+
 
 ## Authors
 
